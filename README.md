@@ -8,7 +8,7 @@
 
 ### Scripty
 
-Dev server - spustí se vývojové server a live reloading
+Dev server - spustí se vývojový server a live reloading
 
 ```
 npm run start
